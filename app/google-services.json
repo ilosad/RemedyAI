@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88334128794",
+    "project_id": "remedyai-3db2e",
+    "storage_bucket": "remedyai-3db2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88334128794:android:23c228daa6fd1af3557123",
+        "android_client_info": {
+          "package_name": "com.example.remedyai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhWmWaaoiaD0K8EQvXd1_Io69IT4MWSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

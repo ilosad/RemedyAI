@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#A89AFF</color>         <!-- 메인 연보라 -->
+    <color name="primaryDark">#6C63FF</color>     <!-- 딥 퍼플 -->
+    <color name="accent">#D6C8FF</color>          <!-- 강조 포인트 -->
+    <color name="background">#F5F4FF</color>      <!-- 배경색 -->
+    <color name="textDark">#333333</color>        <!-- 글씨색 -->
+</resources>
